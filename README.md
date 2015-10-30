@@ -17,3 +17,5 @@ gallery of images to pick from. When the user picks an image we will be grating 
 as shown here http://developer.android.com/training/secure-file-sharing/share-file.html
 
 Go through the doumentation here http://developer.android.com/training/secure-file-sharing/index.html
+
+Note: I have logs through out the app for info on how the app is working
