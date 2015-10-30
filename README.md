@@ -1,6 +1,6 @@
 # serverapp
 
-This is a app that is used to mimic the functionality of a photo gallery app.
+This is an app that is used to mimic the functionality of a photo gallery app.
 
 This app has two activites.
 1. MainActivity
